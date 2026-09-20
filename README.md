@@ -1,7 +1,6 @@
 本人負責流程圖中 api 之部分
 
-<img width="285" height="225" alt="image" src="https://github.com/user-attachments/assets/ddf3ead6-e9f8-479e-965e-18442dd9d65c" />
-
+<img width="285*2" height="225*2" alt="image" src="https://github.com/user-attachments/assets/ddf3ead6-e9f8-479e-965e-18442dd9d65c" />  
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
