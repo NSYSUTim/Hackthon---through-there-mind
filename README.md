@@ -30,7 +30,7 @@ Agent 的定位類似網站中的 AI 智能小助手：使用者可以輸入精�
 - 參考 Google Codelab 的 Vertex AI Agent 建置流程：  
   https://codelabs.developers.google.com/devsite/codelabs/building-ai-agents-vertexai?hl=zh-tw#0
 - 從 **PubMed** 蒐集精神疾病相關論文資料。
-- 將當時取得的資料整理成可供 Agent 使用的靜態知識資料集。
+- 將當時取得的資料整理成可供 Agent 使用的靜態知識資料集。不是持續抓取網頁裡的資料，因為疾病這種資訊也不太可能一下變化太多。
 - 將整理後的資料一次性提供給 Agent 作為回答依據，而不是持續即時抓取 PubMed 網頁。
 - 撰寫指定 prompt，定義 Agent 的任務、回答方向與使用方式。
 - 在 Google Vertex AI 上建立並設定 Agent。
